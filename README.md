@@ -1,4 +1,4 @@
-# Electric-vehicle-EV-Data-Analysis
+# Electric vehicle (EV) Data Analysis
 
 ## Introduction 
 This project analyzes electric vehicle (EV) data to provide insights into trends, geographical distribution, tax exemptions, and population growth over time. The Shiny application allows users to explore various aspects of the EV data through interactive visualizations.
